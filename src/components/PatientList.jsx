@@ -1,7 +1,7 @@
 import Patient from "./Patient"
 
 
-const PatientList = ({pacientes}) => {
+const PatientList = ({pacientes, setPaciente}) => {
 
 
 
@@ -21,6 +21,7 @@ const PatientList = ({pacientes}) => {
             <Patient
               key={paciente.id}
               paciente={paciente}
+              setPaciente={setPaciente}
             />
           ))}
         </>
