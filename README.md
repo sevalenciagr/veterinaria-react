@@ -4,7 +4,7 @@ Este proyecto es una aplicación web desarrollada con React y Vite, diseñada pa
 
 La aplicación es completamente responsive, asegurando una óptima visualización y funcionamiento en distintos dispositivos y tamaños de pantalla.
 
-![](https://github.com/sevalenciagr/veterinaria-react/issues/1#issue-1942253521)
+![Screenshot_1](https://github.com/sevalenciagr/veterinaria-react/assets/88304046/bcb34cb7-267f-4ea3-a2d6-bc02a287e27e)
 
 ## Demostración
 
